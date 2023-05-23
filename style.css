@@ -105,7 +105,7 @@ body {
 
 nav {
   position: fixed;
-  bottom: 40px;
+  bottom: 200px;
   left: 0;
   z-index: 100;
 }
