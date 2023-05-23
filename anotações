@@ -1,0 +1,25 @@
+Estrutura do projeto
+
+1 - Primeiro, teremos um container que irá armazenar todo o conteúdo.
+
+2 - Em segunda, teremos o container do circulo, depois o próprio circulo.
+
+3 - Dentro do circulo, teremos dois botões que iremos pegar do font-awesome: um para fechar e outro representando o hamburguer menu.
+
+4 - Onde irá a barra de navegação? Logo depois do conteúdo da página, neste caso.
+
+5 - Qual o grande truque deste projeto? Iremos colocar um background-color para o body, e outro background color para o container. Tudo fará mais sentido assim que executarmos o JS no projeto.
+
+6 - Como fazer a rotação? Iremos colocar uma classe no nav, chamada .container.show-nav! Dessa forma, quando esse elemento for ativado, a página irá  girar -20deg. Faça o teste
+
+7 - O container deve ocupar, no minimo, toda a a altura do body, isso é muito importante.
+
+8 - agora iremos para o circulo
+
+9 - Na segunda parte, iremos lidar com a barra de navegação em si.
+
+10 - Coloque um limite de 1000px no conteudo.
+
+11 - Vamos mexer na barra de navegação agora! Queremos que ela esteja fixada.
+
+12 - container.show-nav + nav li? Quando o container tiver essa classe, simplesmente irei pedir para o menu voltar ao lugar.
